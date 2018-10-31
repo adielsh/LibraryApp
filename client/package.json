@@ -3,12 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "node ../server/app.js  | vue-cli-service serve ",
     "build": "vue-cli-service build"
   },
   "dependencies": {
     "@vue/cli-service-global": "^3.0.5",
-    "axios": "^0.18.0",
     "bootstrap-vue": "^2.0.0-rc.11",
     "vue": "^2.5.17"
   },
