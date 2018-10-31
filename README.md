@@ -6,8 +6,8 @@
 
 ``` bash
 # install dependencies
-npm install
-
+cd server  && npm i
+cd client  && npm i
 # serve with hot reload at localhost:9080 (And also run the server with db)
 npm run dev
 
