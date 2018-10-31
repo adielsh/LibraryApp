@@ -1,7 +1,16 @@
 # library
 
-## Project setup
+## Server 
 ```
+cd server
+```
+```
+yarn install && node app.js
+```
+## Client 
+
+```
+cd client\library 
 yarn install
 ```
 
