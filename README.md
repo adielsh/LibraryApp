@@ -10,12 +10,13 @@ yarn install && node app.js
 ## Client 
 
 ```
-cd client\library 
+cd client 
 yarn install
 ```
 
 ### Compiles and hot-reloads for development and also server (at one command!)
 ```
+cd clien
 yarn run serve
 ```
 
