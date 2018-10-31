@@ -16,7 +16,7 @@ yarn install
 
 ### Compiles and hot-reloads for development and also server (at one command!)
 ```
-cd clien
+cd client
 yarn run serve
 ```
 
