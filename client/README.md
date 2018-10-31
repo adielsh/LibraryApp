@@ -1,6 +1,6 @@
 # library
 
-> An electron-vue project
+> An electron-vue project with mongo db connection on cloud
 
 #### Build Setup
 
@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:9080
+# serve with hot reload at localhost:9080 (And also run the server with db)
 npm run dev
 
 # build electron application for production
